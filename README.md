@@ -58,8 +58,8 @@ Suggestions:
 
 ## Authors
 
-- Hasan Ahmed
-- Musab Jamil
+- Hasan Ahmed 2725-2025
+- Musab Jamil 2641-2025
 
 ## Course
 
